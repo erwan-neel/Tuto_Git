@@ -1,0 +1,7 @@
+1) Créer un nouveau dossier "Tuto_Git" dans le dossier E:\Maya\Documents
+2) Initialiser le repository git
+3) Créer le fichier "commandes_git.txt"
+4) Lister l'ensemble des commandes git dont tu te souviens dans ce fichier
+5) Réaliser un commit de ce fichier
+6) Créer sur GitHub un nouveau repository "Tuto_Git"
+7) Pusher le repository local sur le remote
